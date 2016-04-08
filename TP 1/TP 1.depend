@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1460145771 source:c:\users\familia\desktop\conzi\projects\tp 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+
+1459567666 source:c:\users\familia\desktop\conzi\projects\tp 1\funcion.c
+
+1459567666 c:\users\familia\desktop\conzi\projects\tp 1\funciones.h
+
+1460145933 source:c:\users\familia\desktop\conzi\projects\tp 1\funciones.c
+
