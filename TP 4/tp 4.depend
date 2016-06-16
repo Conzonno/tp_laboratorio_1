@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1465922306 source:c:\documents and settings\santiago conzonno\escritorio\programacion\tp 4\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1465601172 c:\documents and settings\santiago conzonno\escritorio\programacion\tp 4\arraylist.h
+
+1465942353 source:c:\documents and settings\santiago conzonno\escritorio\programacion\tp 4\employee.c
+	<stdio.h>
+	<stdlib.h>
+	"employee.h"
+	"ArrayList.h"
+	"area.h"
+
+1465942327 c:\documents and settings\santiago conzonno\escritorio\programacion\tp 4\employee.h
+	"ArrayList.h"
+	"area.h"
+
+1465942363 source:c:\documents and settings\santiago conzonno\escritorio\programacion\tp 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"employee.h"
+	"ArrayList.h"
+	"area.h"
+	"files.h"
+
+1465771906 source:f:\ \tp 4\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1465601172 f:\ \tp 4\arraylist.h
+
+1465863180 source:f:\ \tp 4\area.c
+	<stdio.h>
+	<stdlib.h>
+	"employee.h"
+	"ArrayList.h"
+	"area.h"
+
+1465863180 f:\ \tp 4\employee.h
+	"ArrayList.h"
+
+1465863178 f:\ \tp 4\area.h
+	"ArrayList.h"
+
+1465863626 source:f:\ \tp 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"employee.h"
+	"ArrayList.h"
+	"area.h"
+
+1465863180 source:f:\ \tp 4\employee.c
+	<stdio.h>
+	<stdlib.h>
+	"employee.h"
+	"ArrayList.h"
+
+1465891920 c:\documents and settings\santiago conzonno\escritorio\programacion\tp 4\area.h
+	"ArrayList.h"
+
+1465929797 source:c:\documents and settings\santiago conzonno\escritorio\programacion\tp 4\area.c
+	<stdio.h>
+	<stdlib.h>
+	"employee.h"
+	"ArrayList.h"
+	"area.h"
+
+1465942969 source:c:\documents and settings\santiago conzonno\escritorio\programacion\tp 4\files.c
+	<stdio.h>
+	<stdlib.h>
+	"employee.h"
+	"ArrayList.h"
+	"area.h"
+	"files.h"
+
+1465942945 c:\documents and settings\santiago conzonno\escritorio\programacion\tp 4\files.h
+
